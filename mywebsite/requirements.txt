@@ -1,7 +1,7 @@
 asgiref==3.4.1
 attrs==21.4.0
 backports.zoneinfo==0.2.1
-Django==3.2.4
+Django==3.2.11
 factory-boy==3.2.1
 Faker==11.3.0
 iniconfig==1.1.1
