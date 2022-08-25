@@ -1,2 +1,2 @@
 # mywebsite
-Django Personal Blog
+a simple django project running local and heroku.
